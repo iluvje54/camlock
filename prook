@@ -1,4 +1,4 @@
-   getgenv().AimPart = "HumanoidRootPart"
+  getgenv().AimPart = "HumanoidRootPart"
 		getgenv().AimlockKey = "q"
 		getgenv().AimRadius = 50
 		getgenv().ThirdPerson = true
@@ -22,7 +22,7 @@
 		Vector2.new
 		local L_38_, L_39_, L_40_ = true, false, false
 		local L_41_
-		getgenv().Authgg = true
+		getgenv().Slapcc = true
 		getgenv().WorldToViewportPoint = function(L_42_arg0)
 			return L_33_:WorldToViewportPoint(L_42_arg0)
 		end
